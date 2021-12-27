@@ -5,5 +5,4 @@ go_library(
     srcs = ["b.go"],
     importpath = "example.com/b",
     visibility = ["//visibility:public"],
-    deps = [],
 )
